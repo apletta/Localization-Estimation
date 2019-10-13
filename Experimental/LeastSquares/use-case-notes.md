@@ -1,5 +1,5 @@
 # Use Case Notes
-- While recursive least squares can be a solution for state estimation, superior solutions exist. It is important to understand the limitations of this model. The work here serves as a building block to understanding the Kalman Filter and more advanced SLAM estimators. Files are adapted from the Coursera course: [State Estimation and Localization for Self-Driving cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars/home/welcome).
+- While recursive least squares can be a solution for state estimation, superior solutions exist. It is important to understand the limitations of this model. The work here serves as a building block to understanding the Kalman Filter and more advanced SLAM estimators. Files are adapted from the Coursera course: [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars/home/welcome).
 
 ## Advantages
 - Conceptually easier
