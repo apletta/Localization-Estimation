@@ -1,4 +1,5 @@
 # Use Case Notes
+- While recursive least squares can be a solution for state estimation, superior solutions exist. It is important to understand the limitations of this model. The work here serves as a building block to the Kalman Filter and more advanced SLAM estimators, including those capable of estimating non-linear systems. 
 
 ## Advantages
 - Conceptually easy
@@ -15,5 +16,4 @@
 - Sensitive to outliers
 
 ## Other
-- Explored as building block to Kalman Filter/more advanced SLAM estimators
 - Produces same results as Maximum Likelihood Estimator according to Central Limit Theroem
