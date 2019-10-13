@@ -2,7 +2,7 @@
 - While recursive least squares can be a solution for state estimation, superior solutions exist. It is important to understand the limitations of this model. The work here serves as a building block to the Kalman Filter and more advanced SLAM estimators, including those capable of estimating non-linear systems. 
 
 ## Advantages
-- Conceptually easy
+- Conceptually easier
 - Relatively fast processing time
 - Can combine measurements from different sources (i.e. with different variance)
 - Recursive solution can be used on live data
